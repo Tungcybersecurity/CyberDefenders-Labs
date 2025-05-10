@@ -10,6 +10,7 @@
     - Assess the potential impact on the organization.
 - **Tools Used**:
     - Virustotal
+    - Any Run
 
 ## 2. Question and Answers 
 
