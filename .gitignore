@@ -399,3 +399,76 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# ==== System Files ====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# ==== Editor / IDE Files ====
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==== Logs, Backups, and Temp Files ====
+*.log
+*.bak
+*.tmp
+*.swp
+*.orig
+
+# ==== Python Bytecode and Cache ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==== Jupyter Notebook Checkpoints ====
+.ipynb_checkpoints/
+
+# ==== Virtual Environments ====
+.venv/
+env/
+venv/
+
+# ==== Secrets and Environment Variables ====
+.env
+.env.*
+secrets.*
+credentials.*
+config.json
+
+# ==== Output, Results, or Temp Dirs ====
+output/
+results/
+temp/
+*.out
+
+# ==== Archives ====
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+# ==== Optional: Large PCAP or Sensitive Files ====
+*.pcap
+*.pcapng
+*.evtx
+*.mem
+*.bin
+
+# ==== Node.js (if ever used) ====
+node_modules/
+
+# ==== VS Live Share ====
+.vsls.json
+
+# ==== Mac OS Finder ====
+.AppleDouble
+.LSOverride
+
